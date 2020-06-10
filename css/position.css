@@ -1,0 +1,112 @@
+.row{
+    position: absolute;
+  }
+  .col-1{
+    width: 8.33%;
+    position: relative;
+    float: left;
+  }
+  .col-2{
+    width: 16.66%;
+    position: relative;
+    float: left;
+  }
+  .col-3{
+    width: 25%;
+    position: relative;
+    float: left;
+  }
+  .col-4{
+    width: 33.33%;
+    position: relative;
+    float: left;
+  }
+  .col-5{
+    width: 41.66%;
+    position: relative;
+    float: left;
+  }
+  .col-6{
+    width: 50%;
+    position: relative;
+    float: left;
+  }
+  .col-7{
+    width: 58.33%;
+    position: relative;
+    float: left;
+  }
+  .col-8{
+    width: 66.66%;
+    position: relative;
+    float: left;
+  }
+  .col-9{
+    width: 75%;
+    position: relative;
+    float: left;
+  }
+  .col-10{
+    width: 83.33%;
+    position: relative;
+    float: left;
+  }
+  .col-11{
+    width: 91.66%;
+    position: relative;
+    float: left;
+  }
+  .col-12{
+    width: 100%;
+    position: relative;
+    float: left;
+  }
+  .off-101 {
+    margin-left: 5%;
+  }
+  .off-102 {
+    margin-left: 3%;
+  }
+  .off-1{
+    margin-left: 8.33%;
+  }
+  .off-2{
+    margin-left: 16.66%;
+  }
+  .off-3{
+    margin-left: 25%;
+  }
+  .off-4{
+    margin-left: 33.33%;
+  }
+  .down-1 {
+    margin-top: 1%;
+  }
+  .down-2 {
+    margin-top: 2%;
+  }
+  .down-3{
+  margin-top: 3%;
+  }
+  .down-4 {
+    margin-top: 4%;
+  }
+  .down-5{
+  margin-top: 5%;
+  }
+  .down-6{
+    margin-top: 6%;
+  }
+  .down-10{
+    margin-top: 10%;
+  }
+  .down-15 {
+    margin-top: 15%;
+  }
+  .down-20 {
+    margin-top: 20%;
+  }
+  .up-50{
+    margin-bottom: 50%;
+  }
+  
